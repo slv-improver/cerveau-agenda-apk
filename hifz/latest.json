@@ -1,9 +1,9 @@
 {
-  "build": 1,
-  "version": "1.0.1",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-1/hifz-web-1.zip",
-  "sha256": "810f9985796a938144d6bc5469e8d828cb41bd3459b0180da8e532a5fc208f5c",
+  "build": 2,
+  "version": "1.0.2",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-2/hifz-web-2.zip",
+  "sha256": "7bedb10a6b06f6e281702335a8c8c55a50b82bc0c33fa56a42516ebb8c22314a",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-1/Hifz-al-Quran-1.apk",
-  "notes": "Première version",
-  "date": "2026-10-28T14:09:11Z"
+  "notes": "Plus de bandeau de rappel de sauvegarde",
+  "date": "2026-10-28T14:23:26Z"
 }
