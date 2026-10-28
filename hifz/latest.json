@@ -1,9 +1,9 @@
 {
-  "build": 4,
-  "version": "1.0.4",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-4/hifz-web-4.zip",
-  "sha256": "8515c83662d4e57fb65e4c154a26ff01044ccfc0ea627e45c4f2806a7950f17b",
+  "build": 5,
+  "version": "1.0.5",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-5/hifz-web-5.zip",
+  "sha256": "9c3c007839e4ee3240ad2bac9cae68814a2c0b1ba089847d4eb057c29246328e",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-1/Hifz-al-Quran-1.apk",
-  "notes": "Sauvegarde complète (éditorial, zones, marques, profil, surlignages) ; préparation de l’APK admin",
-  "date": "2026-10-28T15:46:01Z"
+  "notes": "En-tête de l’accueil sans « Coran entier »",
+  "date": "2026-10-28T16:03:28Z"
 }
