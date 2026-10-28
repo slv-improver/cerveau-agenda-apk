@@ -1,9 +1,9 @@
 {
-  "build": 5,
-  "version": "1.0.5",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-5/hifz-web-5.zip",
-  "sha256": "9c3c007839e4ee3240ad2bac9cae68814a2c0b1ba089847d4eb057c29246328e",
-  "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-1/Hifz-al-Quran-1.apk",
-  "notes": "En-tête de l’accueil sans « Coran entier »",
-  "date": "2026-10-28T16:03:28Z"
+  "build": 6,
+  "version": "1.0.6",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-6/hifz-web-6.zip",
+  "sha256": "ee3f4559b8d655546c7df7dba4492ebb965a1fae9b87ca19367ee459d3a29c9b",
+  "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
+  "notes": "Touche retour d’Android : retour en arrière, double appui pour quitter depuis l’accueil",
+  "date": "2026-10-28T16:22:26Z"
 }
