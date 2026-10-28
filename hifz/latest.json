@@ -1,9 +1,9 @@
 {
-  "build": 7,
-  "version": "1.0.7",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-7/hifz-web-7.zip",
-  "sha256": "032e1ab64c1980bdb8cb18a37ef7302f4210577ee9967abbe5aa39dedd177c18",
+  "build": 8,
+  "version": "1.0.8",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-8/hifz-web-8.zip",
+  "sha256": "09d1e1e72099a4300a6414a71a60f11cccef77d4c1ef59a70bda26a9fb511158",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Extraits ciblés : un trait orange continu",
-  "date": "2026-10-28T17:44:14Z"
+  "notes": "Extraits : trait orange sous le trait gris des mots cachés",
+  "date": "2026-10-28T17:47:23Z"
 }
