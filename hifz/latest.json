@@ -1,9 +1,9 @@
 {
-  "build": 2,
-  "version": "1.0.2",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-2/hifz-web-2.zip",
-  "sha256": "7bedb10a6b06f6e281702335a8c8c55a50b82bc0c33fa56a42516ebb8c22314a",
+  "build": 3,
+  "version": "1.0.3",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-3/hifz-web-3.zip",
+  "sha256": "3d9cd56db65c6b4f3ac72fed1cc96f8b1916a97e3a7316590c52e715b569ea5b",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-1/Hifz-al-Quran-1.apk",
-  "notes": "Plus de bandeau de rappel de sauvegarde",
-  "date": "2026-10-28T14:23:26Z"
+  "notes": "Sauvegarde enregistrée directement dans Documents/Hifz ; rappel tous les 7 jours en bas de l’accueil",
+  "date": "2026-10-28T14:53:30Z"
 }
