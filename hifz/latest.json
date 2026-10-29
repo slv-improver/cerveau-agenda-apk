@@ -1,9 +1,9 @@
 {
-  "build": 11,
-  "version": "1.0.11",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-11/hifz-web-11.zip",
-  "sha256": "0b29cf64d002b533cc50415928b907d8130517ba6781d2663401f7883cb48888",
+  "build": 12,
+  "version": "1.0.12",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-12/hifz-web-12.zip",
+  "sha256": "88f05bd5377a0cba0586eb094e8094f7cc32579f4b3e1b945e10057b1ae015e1",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Passages : « N passages dans M sourates », sourates entières sur une ligne à part",
-  "date": "2026-10-29T11:55:44Z"
+  "notes": "Numéros de verset cachés : leur place est gardée, les mots ne bougent plus à l’apparition",
+  "date": "2026-10-29T16:53:44Z"
 }
