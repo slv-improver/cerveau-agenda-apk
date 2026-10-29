@@ -1,9 +1,9 @@
 {
-  "build": 8,
-  "version": "1.0.8",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-8/hifz-web-8.zip",
-  "sha256": "09d1e1e72099a4300a6414a71a60f11cccef77d4c1ef59a70bda26a9fb511158",
+  "build": 9,
+  "version": "1.0.9",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-9/hifz-web-9.zip",
+  "sha256": "401a177f86d3384bc1d9232eb8ce6cebd05de83804fe18dfa45dc3f01d3ab32a",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Extraits : trait orange sous le trait gris des mots cachés",
-  "date": "2026-10-28T17:47:23Z"
+  "notes": "En-tête du mushaf aligné, orange plus distinct du rouge, listes de droite à gauche, sourates en arabe",
+  "date": "2026-10-29T07:04:47Z"
 }
