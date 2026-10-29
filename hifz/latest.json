@@ -1,9 +1,9 @@
 {
-  "build": 12,
-  "version": "1.0.12",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-12/hifz-web-12.zip",
-  "sha256": "88f05bd5377a0cba0586eb094e8094f7cc32579f4b3e1b945e10057b1ae015e1",
+  "build": 13,
+  "version": "1.0.13",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-13/hifz-web-13.zip",
+  "sha256": "d3da1f53645b26c39dfaf845f7a1aa1afbe908c58196388188cbd958d2b6865f",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Numéros de verset cachés : leur place est gardée, les mots ne bougent plus à l’apparition",
-  "date": "2026-10-29T16:53:44Z"
+  "notes": "Traits des mots cachés continus sur toute la ligne, y compris sous les numéros de verset cachés",
+  "date": "2026-10-29T17:28:43Z"
 }
