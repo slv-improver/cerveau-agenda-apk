@@ -1,9 +1,9 @@
 {
-  "build": 17,
-  "version": "1.0.17",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-17/hifz-web-17.zip",
-  "sha256": "afd121cbccbb4430b5419f8f83d4c8f4918d7a714db6139ee4bfab07f3e8d2f7",
+  "build": 18,
+  "version": "1.0.18",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-18/hifz-web-18.zip",
+  "sha256": "3650cc5e7e8b63e893cb7a200276313c720614262435aaf4de360c80bfff380f",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mots arabes de la fiche d’un verset dans la police du moṣḥaf ; rasm : prime sur la riwāya",
-  "date": "2026-10-30T21:18:15Z"
+  "notes": "Accueil : mots lus aujourd’hui (révision et mémorisation)",
+  "date": "2026-10-30T23:30:48Z"
 }
