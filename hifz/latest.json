@@ -1,9 +1,9 @@
 {
-  "build": 14,
-  "version": "1.0.14",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-14/hifz-web-14.zip",
-  "sha256": "64d40b4798dc0854360e5342c6047293bc99ef3881f11d8c8f4783d807668a93",
+  "build": 15,
+  "version": "1.0.15",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-15/hifz-web-15.zip",
+  "sha256": "7d16da1590e8361ebbe03e885162c247f45238aee68354af36ebc9fa6e330e56",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Numéros cachés aussi quand les erreurs sont masquées ; version et recherche de mise à jour en bas des réglages",
-  "date": "2026-10-29T18:00:32Z"
+  "notes": "Révision : flèche de retour à la page en cours ; bouton Mot / Verset / Phrase, glisser pour changer",
+  "date": "2026-10-30T16:20:45Z"
 }
