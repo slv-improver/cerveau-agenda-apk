@@ -1,9 +1,9 @@
 {
-  "build": 15,
-  "version": "1.0.15",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-15/hifz-web-15.zip",
-  "sha256": "7d16da1590e8361ebbe03e885162c247f45238aee68354af36ebc9fa6e330e56",
+  "build": 16,
+  "version": "1.0.16",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-16/hifz-web-16.zip",
+  "sha256": "39fc94935d2615f6324836afcd5acca96c10602b2b4bad385444c258396fd10a",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Révision : flèche de retour à la page en cours ; bouton Mot / Verset / Phrase, glisser pour changer",
-  "date": "2026-10-30T16:20:45Z"
+  "notes": "Fiche d’un mot (mots pièges) : bouton « Ouvrir dans le moṣḥaf »",
+  "date": "2026-10-30T16:49:21Z"
 }
