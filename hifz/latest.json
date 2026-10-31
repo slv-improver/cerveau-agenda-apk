@@ -1,9 +1,9 @@
 {
-  "build": 20,
-  "version": "1.0.20",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-20/hifz-web-20.zip",
-  "sha256": "557e0c040b11127aff88b3ef6439732238c111946b234ec4e940952e5ec332d8",
+  "build": 21,
+  "version": "1.0.21",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-21/hifz-web-21.zip",
+  "sha256": "fc2c3887725060b53c3238b56b505f56f32863b4363d7a6e308236dc617cdb53",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Menu du bas : barre arrondie, bouton Moṣḥaf surélevé",
-  "date": "2026-10-31T14:14:36Z"
+  "notes": "Auto-test : réponse cachée jusqu’à la première révélation, rasm seulement sur le texte du test, glisser sur « Révéler »",
+  "date": "2026-10-31T14:16:33Z"
 }
