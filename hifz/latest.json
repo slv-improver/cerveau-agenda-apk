@@ -1,9 +1,9 @@
 {
-  "build": 21,
-  "version": "1.0.21",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-21/hifz-web-21.zip",
-  "sha256": "fc2c3887725060b53c3238b56b505f56f32863b4363d7a6e308236dc617cdb53",
+  "build": 22,
+  "version": "1.0.22",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-22/hifz-web-22.zip",
+  "sha256": "3a30a5af3ee24db1cf73ae3fdf4a02eb609a4d745c34bc4f91a8417a04323eba",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Auto-test : réponse cachée jusqu’à la première révélation, rasm seulement sur le texte du test, glisser sur « Révéler »",
-  "date": "2026-10-31T14:16:33Z"
+  "notes": "Auto-test : un même mot n’est plus compté comme différent à cause d’un tanwīn ouvert ou d’un mīm d’iqlāb",
+  "date": "2026-10-31T14:52:15Z"
 }
