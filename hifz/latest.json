@@ -1,9 +1,9 @@
 {
-  "build": 18,
-  "version": "1.0.18",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-18/hifz-web-18.zip",
-  "sha256": "3650cc5e7e8b63e893cb7a200276313c720614262435aaf4de360c80bfff380f",
+  "build": 19,
+  "version": "1.0.19",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-19/hifz-web-19.zip",
+  "sha256": "d6c142acbc32bf5fe36bcfc9edcc81f841675d9f144fb9209e12ba66b65dec21",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Accueil : mots lus aujourd’hui (révision et mémorisation)",
-  "date": "2026-10-30T23:30:48Z"
+  "notes": "Menu du bas (Mémoriser · Moṣḥaf · Auto-test), points mot / phrase / verset, rasm de l’auto-test dans l’APK admin",
+  "date": "2026-10-31T11:31:29Z"
 }
