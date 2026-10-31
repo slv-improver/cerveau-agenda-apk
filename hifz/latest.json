@@ -1,9 +1,9 @@
 {
-  "build": 26,
-  "version": "1.0.26",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-26/hifz-web-26.zip",
-  "sha256": "de0c811230404b610343a0456f352f6289c8fd5897607588ca80c285264149ac",
+  "build": 27,
+  "version": "1.0.27",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-27/hifz-web-27.zip",
+  "sha256": "b13d53a579722de61b8293f754aa51d0c373cf4c0a8f5ec658f3bc49a8c0ead5",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Warsh : شَيْـٔاً s’affiche correctement (77 occurrences)",
-  "date": "2026-10-31T21:01:57Z"
+  "notes": "Menu : Réviser (tout ce qui est dû) et Stats ; mots révisés par jour et par semaine ; page Mémorisé (mots et versets)",
+  "date": "2026-10-31T21:35:15Z"
 }
