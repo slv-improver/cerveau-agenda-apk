@@ -1,9 +1,9 @@
 {
-  "build": 24,
-  "version": "1.0.24",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-24/hifz-web-24.zip",
-  "sha256": "fd81c095a235bfa759cdd6f3b2b4966caa291ce43266f4d7902780d51a22a6cc",
+  "build": 25,
+  "version": "1.0.25",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-25/hifz-web-25.zip",
+  "sha256": "f9d9865c87a340f42145c26fc0748f0f0c1a5822e469b67e568cd1ee10faec17",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mutashābihāt : la fin des mots ne compte plus (case stricte pour la comparaison exacte) ; autres niveaux : comparaison exacte",
-  "date": "2026-10-31T17:41:00Z"
+  "notes": "Mutashābihāt : la hamza compte, son support non (seule sa voyelle compte)",
+  "date": "2026-10-31T18:20:30Z"
 }
