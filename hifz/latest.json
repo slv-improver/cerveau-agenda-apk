@@ -1,9 +1,9 @@
 {
-  "build": 27,
-  "version": "1.0.27",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-27/hifz-web-27.zip",
-  "sha256": "b13d53a579722de61b8293f754aa51d0c373cf4c0a8f5ec658f3bc49a8c0ead5",
+  "build": 28,
+  "version": "1.0.28",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-28/hifz-web-28.zip",
+  "sha256": "fb84c30275d9d25e3ea863dea522934d3eb236de38063d113b478ad691f07ba9",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Menu : Réviser (tout ce qui est dû) et Stats ; mots révisés par jour et par semaine ; page Mémorisé (mots et versets)",
-  "date": "2026-10-31T21:35:15Z"
+  "notes": "Anneau de retour sur l’accueil, plus grand ; la case mémorisés ouvre la carte un point par verset",
+  "date": "2026-10-31T21:53:31Z"
 }
