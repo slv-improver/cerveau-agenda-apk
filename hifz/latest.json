@@ -1,9 +1,9 @@
 {
-  "build": 22,
-  "version": "1.0.22",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-22/hifz-web-22.zip",
-  "sha256": "3a30a5af3ee24db1cf73ae3fdf4a02eb609a4d745c34bc4f91a8417a04323eba",
+  "build": 23,
+  "version": "1.0.23",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-23/hifz-web-23.zip",
+  "sha256": "673dade014c01b07b6a812bcff798676b3c418a1a2d002d611033a4d861bcf08",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Auto-test : un même mot n’est plus compté comme différent à cause d’un tanwīn ouvert ou d’un mīm d’iqlāb",
-  "date": "2026-10-31T14:52:15Z"
+  "notes": "Auto-test : le tanwīn d’iqlāb reste un tanwīn (رَسُولٌ ≠ رَسُولُ)",
+  "date": "2026-10-31T16:28:01Z"
 }
