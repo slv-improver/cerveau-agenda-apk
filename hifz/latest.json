@@ -1,9 +1,9 @@
 {
-  "build": 28,
-  "version": "1.0.28",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-28/hifz-web-28.zip",
-  "sha256": "fb84c30275d9d25e3ea863dea522934d3eb236de38063d113b478ad691f07ba9",
+  "build": 29,
+  "version": "1.0.29",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-29/hifz-web-29.zip",
+  "sha256": "b4d6c813fd526ae4a800466a057c57e439431515bba4d989beebef8bced2e17d",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Anneau de retour sur l’accueil, plus grand ; la case mémorisés ouvre la carte un point par verset",
-  "date": "2026-10-31T21:53:31Z"
+  "notes": "Validation de mémorisation réparée ; bilan et extraits de l’auto-test en texte Warsh",
+  "date": "2026-10-31T21:56:32Z"
 }
