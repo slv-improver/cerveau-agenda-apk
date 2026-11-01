@@ -1,9 +1,9 @@
 {
-  "build": 30,
-  "version": "1.0.30",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-30/hifz-web-30.zip",
-  "sha256": "f3cdf35deb6c16dc654044db29e06e5562d057c53e46ad8facdaa24a2aaa18a7",
+  "build": 31,
+  "version": "1.0.31",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-31/hifz-web-31.zip",
+  "sha256": "5d5ddbe3c5b3091f88c9965e0dec3c57123c1a1b55855eb22e9f230b72d21a02",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Anneau de l’accueil sur toute la largeur ; Le Coran en points à plat ; copier / coller la sauvegarde retirés",
-  "date": "2026-10-31T22:05:53Z"
+  "notes": "Un passage fragile ou oublié ne monte plus de palier (consolidation, entretien) ; état du mot simplifié",
+  "date": "2026-11-01T08:26:07Z"
 }
